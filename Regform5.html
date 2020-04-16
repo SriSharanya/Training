@@ -1,0 +1,68 @@
+<div  class="form">
+  <style>  
+body{  
+  font-family: Calibri;  
+  background-color: pink;  
+}  
+
+  
+input[type=text], input[type=password], textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 5px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+input[type=text]:focus, input[type=password]:focus {  
+  background-color: lightblue;  
+  outline: none;  
+}  
+ div {  
+            padding: 10px 0;  
+         }  
+hr {  
+  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;  
+} 
+.registerbtn {  
+  background-color: #808080;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 100%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 5;   
+
+</style>  
+  <form id="contactform">
+  <center>  <h1> Student Registeration Form</h1> </center>  
+     <p class="contact"><label for="name">Name</label></p>
+      <input id="name" name="name" placeholder="name"  type="text">
+        <p class="contact"><label for="email">Email</label></p>
+                <input id="email" name="email" placeholder="email@gmail.com" required="" type="email">
+                <p class="contact"><label for="username">Create a username</label></p>
+                <input id="username" name="username" placeholder="username"  type="text">
+                <p class="contact"><label for="password">Create a password</label></p>
+                <input type="password" id="password" name="password" type="text">
+                <p class="contact"><label for="repassword">Confirm your password</label></p>
+                <input type="password" id="password" name="password"  type="text"><br><br>               
+                 <label>Birthday</label>
+                  <input type="date" name="birthday" />
+                  </label>   
+            <br><br>
+            <label>Gender</label>
+            <select class="gender" name="gender">
+           
+            <option for="male">Male</option>
+            <option for="female">Female</option>
+            </select><br><br>
+            <p class="contact"><label for="phone">Mobile phone</label></p>
+            <input id="phone" name="phone" placeholder="phone number"  type="text"> <br><br>
+            <input class="registerbtn" name="submit" id="submit" value="Sign up" type="submit">   
+   </form>
+</div>
