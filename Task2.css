@@ -1,0 +1,351 @@
+.header{
+	background-color: white;
+}
+.navbar{
+	
+	min-height: 80px;
+}
+.container-fluid{
+	background-color: #F1F1ED;
+	font-family: sans-serif;
+}
+.firstRow{
+	margin-top: 20px;	
+}
+
+.ThirdRow{
+	margin-top: 3%;
+	height: 140px;
+	border-radius: 10px;	
+}
+
+.card{
+	background-color: white;
+}
+.DigitalDotsicon{
+	margin-top: 8px;
+	height: 60px;
+}
+.Home{
+    margin-left: 25px;
+	margin-top: 50px;
+	height: 230px;
+	border-radius: 10px;
+	align-content: left;
+	}
+	.icons{
+
+       margin-left: 20px;
+		margin-top: 22px;
+		font-size: 11px;
+		color: 	#696969;
+	}
+	.fa-home{
+		margin-right: 20px;
+		font-size: 18px;
+	}
+	.fa-tachometer{
+		margin-right: 20px;
+		font-size: 18px;
+
+	}
+	.fa-lightbulb-o{
+		margin-right: 28px;
+		font-size: 18px;
+	}
+	.fa-envelope-o{
+		margin-right: 20px;
+	    font-size: 18px;
+	}
+	.fa-bug{
+		margin-right: 22px;
+		font-size: 18px;
+	}
+	.explore{
+		margin-bottom: 50px;
+		font-size: 22px;
+	}
+	
+b{
+padding:0;
+text-decoration:none;
+color:black;
+font-size:13px;
+}
+b:hover{
+
+width-left:60px;
+border-radius:45px;
+color:#1E90FF;
+}
+
+.Signout {
+	margin-left: 25px;
+	text-align: center;
+	line-height: 70px;
+	margin-top:50px;
+	height: 80px;
+	border-radius: 10px; 
+}
+.asd{
+	margin-right:25px;
+
+}
+.button_signout{
+	color: #FFCC00;
+}
+
+.Digital_Dimensions {
+	text-align: center;
+	color: #1E90FF;
+    height: 550px;
+    border-radius: 10px;
+}
+.DigitalStudio_Imag{
+	margin-top: 40px;
+	height: 400px;
+}
+.DigitalModel_Dimensions {
+	
+    height: 140px;
+    border-radius: 10px;
+
+}
+.CogniviteSensor_Dimensions{
+	margin-top:20px;
+	height: 140px;
+	border-radius: 10px;
+	
+}
+
+.Design p{
+	
+	font-size: 8px;
+	height: 140px;
+	border-radius: 10px;
+
+}
+p{
+	margin-top: 15px;
+	color:black;
+font-size: 10px;
+
+}
+
+.pmodel_tag{
+	margin-left: 3%;
+	margin-top: 20px;
+}
+.Digitalimg{
+	position:absolute;
+	margin: 50px 180px;
+	
+	height: 60px;
+	
+}
+.form-control{
+	width: 280px;
+	height: 30px;
+	right: 50%;
+	border-radius: 20px;
+	color: #FFCC00;
+	text-align: center;
+	font-weight: bold;
+	background-color: white;
+	font-size: 11px;
+	border:1px solid #F1F1ED ;
+	font-weight: 600;
+	box-shadow: 0 1px 1px 0 rgba(0.1,0,0,0);
+}
+.fa-search{
+	position: absolute;
+	top:30%;
+	transform:translate(50%);
+	left: 26%;
+
+	
+
+}
+.themes{
+	position:absolute;
+	margin:38px 0px;
+	right: 1%;
+	transform: translate(-50%,-50%);
+	text-decoration: none;
+	font-family: sans-serif;
+	color: #1E90FF;
+	font-size: 14px;
+	font-weight: bold;
+	font-weight: 550;
+}
+.imgheader{
+	position: absolute;
+	top: 15%;
+    right:9%;
+    height:42px;
+    border-radius: 150px;
+}
+.bell{
+	top: 4%;
+    right:14%;
+    height:42px;
+    width: 42px;
+    border-radius:100px;
+}
+.search{
+
+	
+	margin: 8px 190px;
+	width: 380px;
+    text-align: center;
+	line-height: 35px;
+	text-decoration: none;
+    color: black;
+	font-size: 11px;
+	border-radius: 100px;
+	font-weight: bold;
+	border:1px solid #F1F1ED ;
+	font-weight: 600;
+	box-shadow: 0 1px 1px 0 rgba(0.1,0,0,0);
+  
+}
+.BellCard{
+   margin-top: 13px;
+}
+.Headerimg_Card{
+   margin-top: 13px;
+}
+.Designimg{
+	margin-left: 4%;
+	margin-top: 15px;
+	width: 30px;
+	align-content: left;
+}
+h2{
+	margin-top: 13%;
+}
+h6{
+
+	color: #A9A9A9;
+	font-weight: bold;
+	font-weight: 600;
+}
+.explore{
+	margin-left: 3%;
+}
+.h6tag{
+margin-top: 2%;
+margin-left: 3%;
+}
+.p_tag{
+margin-top: 20px;	
+margin-left: 3%;
+}
+.Designtag{
+margin-left: 4%;
+margin-top: 10px;	
+}
+.explore{
+	font-size:11px;
+	color: #1E90FF;
+	margin-top: 20px; 
+}
+.explore_sensor{
+	font-size:11px;
+	color: #1E90FF;
+	margin-top: 30px;
+	margin-left: 4%;
+}
+.arrow_home{
+	margin-top: 5%;
+	margin-right: 15%;
+	width: 8px;
+	height: 8px;
+	cursor: pointer;
+	transition: .5s;
+	float:right;
+
+	box-shadow: -2px 2px 0 rgba(0,0,0);
+	transform: rotate(225deg);
+}
+.arrow_home:hover{
+	box-shadow: -2px 2px 0 rgba(30,144,255);
+
+}
+.arrow_dashboard{
+	margin-top: 5%;
+	margin-right: 15%;
+	width: 8px;
+	height: 8px;
+	cursor: pointer;
+	transition: .5s;
+	float:right;
+
+	box-shadow: -2px 2px 0 rgba(0,0,0);
+	transform: rotate(225deg);
+}
+.arrow_dashboard:hover{
+	box-shadow: -2px 2px 0 rgba(30,144,255);
+
+}
+
+.arrow_Solutions{
+	margin-top: 5%;
+	margin-right: 15%;
+	width: 8px;
+	height: 8px;
+	cursor: pointer;
+	transition: .5s;
+	float:right;
+
+	box-shadow: -2px 2px 0 rgba(0,0,0);
+	transform: rotate(225deg);
+}
+.arrow_Solutions:hover{
+	box-shadow: -2px 2px 0 rgba(30,144,255);
+
+}
+.arrow_Environment{
+	margin-top: 5%;
+	margin-right: 15%;
+	width: 8px;
+	height: 8px;
+	cursor: pointer;
+	transition: .5s;
+	float:right;
+
+	box-shadow: -2px 2px 0 rgba(0,0,0);
+	transform: rotate(225deg);
+}
+.arrow_Environment:hover{
+	box-shadow: -2px 2px 0 rgba(30,144,255);
+
+}
+.arrow_Reports{
+	margin-top: 5%;
+	margin-right: 15%;
+	width: 8px;
+	height: 8px;
+	cursor: pointer;
+	transition: .5s;
+	float:right;
+
+	box-shadow: -2px 2px 0 rgba(0,0,0);
+	transform: rotate(225deg);
+}
+.arrow_Reports:hover{
+	box-shadow: -2px 2px 0 rgba(30,144,255);
+
+}
+
+
+/*.arrow{
+	margin-top: 5%;
+	margin-right: 20%;
+	width: 10px;
+	transform: rotate(225deg);
+	background-color: #000;
+
+
+}
+*/
